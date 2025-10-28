@@ -1,11 +1,10 @@
-# IS2_Axel_Ibarrola_C1_2025
-Trabajo práctico de arquitectura para la materia Ingeniería de Software 2
+# Trabajo Práctico – Unidad 3: Diseño Arquitectónico
 
-Consigna: 
+## Consigna: 
 
 A partir del siguiente enunciado, deberás realizar un esquema o breve explicación escrita.
 
-Enunciado: 
+## Enunciado: 
 
 Imaginá que estás diseñando un sistema de gestión para una biblioteca (préstamo de libros, registro de socios, devoluciones, etc.).
 
@@ -13,7 +12,7 @@ Identificá las tres capas principales del sistema (presentación, lógica de ne
 
 Elegí un problema sencillo del sistema (por ejemplo: acceso centralizado a la base de datos, control de usuarios o manejo de configuración) y explicá con tus palabras qué patrón de diseño podría ayudar a resolverlo (por ejemplo: Singleton, MVC, etc.).
 
-Entrega:
+## Entrega:
 
 Esquema gráfico (UML).
 

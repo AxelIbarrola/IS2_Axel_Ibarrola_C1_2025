@@ -1,13 +1,20 @@
 # IS2_Axel_Ibarrola_C1_2025
 Trabajo práctico de arquitectura para la materia Ingeniería de Software 2
 
-Consigna: A partir del siguiente enunciado, deberás realizar un esquema o breve explicación escrita.
+Consigna: 
 
-Enunciado: Imaginá que estás diseñando un sistema de gestión para una biblioteca (préstamo de libros, registro de socios, devoluciones, etc.).
+A partir del siguiente enunciado, deberás realizar un esquema o breve explicación escrita.
+
+Enunciado: 
+
+Imaginá que estás diseñando un sistema de gestión para una biblioteca (préstamo de libros, registro de socios, devoluciones, etc.).
 
 Identificá las tres capas principales del sistema (presentación, lógica de negocio, datos) y escribí qué tipo de funciones tendría cada una.
+
 Elegí un problema sencillo del sistema (por ejemplo: acceso centralizado a la base de datos, control de usuarios o manejo de configuración) y explicá con tus palabras qué patrón de diseño podría ayudar a resolverlo (por ejemplo: Singleton, MVC, etc.).
+
 Entrega:
 
 Esquema gráfico (UML).
+
 Validación del modelo en el lenguaje de programación que usted elija.

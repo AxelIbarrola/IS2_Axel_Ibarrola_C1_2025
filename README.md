@@ -1,10 +1,10 @@
 # Trabajo Práctico – Unidad 3: Diseño Arquitectónico
 
-## Consigna: 
+## Consigna:
 
 A partir del siguiente enunciado, deberás realizar un esquema o breve explicación escrita.
 
-## Enunciado: 
+## Enunciado:
 
 Imaginá que estás diseñando un sistema de gestión para una biblioteca (préstamo de libros, registro de socios, devoluciones, etc.).
 
@@ -17,3 +17,13 @@ Elegí un problema sencillo del sistema (por ejemplo: acceso centralizado a la b
 Esquema gráfico (UML).
 
 Validación del modelo en el lenguaje de programación que usted elija.
+
+### Diagrama de Clases
+
+![Diagrama de Clases](https://github.com/AxelIbarrola/IS2_Axel_Ibarrola_C1_2025/raw/main/Diagrama_de_Clases.png)
+
+---
+
+### Diagrama de Capas
+
+![Diagrama de Capas](https://github.com/AxelIbarrola/IS2_Axel_Ibarrola_C1_2025/raw/main/Diagrama_de_capas.png)
